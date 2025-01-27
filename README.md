@@ -35,11 +35,9 @@ The repository includes a **capstone project** to test your knowledge and skills
 ## **How to Use This Repository**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/r-for-statisticians
+   git clone https://github.com/inspirer777/Beginner-s-Guide-to-R-for-Statisticians-and-Data-Scientists.git
    ```
-2. Navigate through the tutorials in the `tutorials/` folder.
-3. Complete the exercises in the `exercises/` folder.
-4. Work on the final project in the `final_project/` folder.
+
 
 ---
 
